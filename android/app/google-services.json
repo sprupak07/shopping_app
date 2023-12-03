@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "5597243085",
+    "project_id": "whatsapp-clone-e3ef8",
+    "storage_bucket": "whatsapp-clone-e3ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5597243085:android:cb24384a946b45cbe82b84",
+        "android_client_info": {
+          "package_name": "com.example.riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5597243085-d31baqmk2t9b9dskdbp7n6go2vksfbcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tln6kWlb-QOuRP1NPbBeciWgewn0aR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5597243085-d31baqmk2t9b9dskdbp7n6go2vksfbcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5597243085-ab78rht538lgag3ljs7t9cehgj3qe1su.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrteam.flutterquiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5597243085:android:f9726c115fe49434e82b84",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5597243085-d31baqmk2t9b9dskdbp7n6go2vksfbcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tln6kWlb-QOuRP1NPbBeciWgewn0aR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5597243085-d31baqmk2t9b9dskdbp7n6go2vksfbcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5597243085-ab78rht538lgag3ljs7t9cehgj3qe1su.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrteam.flutterquiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
